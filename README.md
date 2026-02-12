@@ -34,4 +34,4 @@ I build end-to-end AI systems — from data pipelines and modeling to deployment
 ## 📫 Connect With Me
 📧 siddhantramgir1047@gmail.com  
 📧 siddhantramgir1997@gmail.com  
-🔗 LinkedIn: [(add your link here)](https://www.linkedin.com/in/siddhant-ramgir/)
+🔗 LinkedIn: [(Siddhant_Ramgir)](https://www.linkedin.com/in/siddhant-ramgir/)
