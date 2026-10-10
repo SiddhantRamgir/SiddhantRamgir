@@ -142,14 +142,6 @@ Founded Onbu-AI through MTU's student entrepreneurship ecosystem.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddhantRamgir&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantRamgir&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm open to opportunities and collaborations involving:
